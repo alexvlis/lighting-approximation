@@ -8,3 +8,7 @@ St. Peter’s Basillica.
 | Interior | Tennis Ball | St. Peter's Probe | Result |
 | -------- |:-----------:|:-----------------:|:------ |
 | <img src="interior.jpg" width="225"/> | <img src="tennis.png" width="125"/> | <img src="stpeters_probe_small.png" width="125"/> | <img src="images/result.png" width="225"/>
+
+## Setup ##
+**Installation:** ```sudo pip install -r requirements.txt``` <br />
+**Run:** ```python total_least_squares.py```
